@@ -1,5 +1,5 @@
 ## Hey 👋, This is Vijayaragavan ARR
-I'm currently pursuing B.tech Artificial intelligence and Data Science in Saveetha engineering college.I'm a guy who loves trying out new things and currently expolring various domains Deep Learning,Virual Reality,Game Development and App Development.
+I'm currently pursuing B.tech Artificial intelligence and Data Science in Saveetha engineering college.I'm a guy who loves trying out new things and currently expolring various domains like Deep Learning,Virual Reality,Game Development and App Development.
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=vijayaragavan-ARR alt=VijayaragavanARR /> </p>
 
