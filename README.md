@@ -31,10 +31,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vijayaragavan-ARR&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ## How to Contact
-Mail: [![Gmail Badge](https://img.shields.io/badge/-vijayaragavan.arr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vijayaragavan.arr@gmail.com)](mailto:vijayaragavan.arr@gmail.com) 
+- Mail: [![Gmail Badge](https://img.shields.io/badge/-vijayaragavan.arr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vijayaragavan.arr@gmail.com)](mailto:vijayaragavan.arr@gmail.com) 
 
 
-Connect: [![Linkedin Badge](https://img.shields.io/badge/-vijayaragavan_ARR-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vijayaragavan-arr-743b04205/)](https://www.linkedin.com/in/vijayaragavan-arr-743b04205/)
+- Connect: [![Linkedin Badge](https://img.shields.io/badge/-vijayaragavan_ARR-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vijayaragavan-arr-743b04205/)](https://www.linkedin.com/in/vijayaragavan-arr-743b04205/)
 
 
 
